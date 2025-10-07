@@ -1,0 +1,131 @@
+{
+  "5192681362": {
+    "subs": [
+      {
+        "name": "dgd",
+        "price": 10.0,
+        "currency": "USD",
+        "day": 8,
+        "start": "2025-10-07",
+        "last_notified": "2025-10-07"
+      },
+      {
+        "name": "fds",
+        "price": 10.0,
+        "currency": "USD",
+        "day": 9,
+        "start": "2025-10-07",
+        "last_notified": null
+      },
+      {
+        "name": "netflix",
+        "price": 10.0,
+        "currency": "USD",
+        "day": 9,
+        "start": "2025-10-07",
+        "last_notified": null
+      },
+      {
+        "name": "gfb",
+        "price": 10.0,
+        "currency": "USD",
+        "day": 8,
+        "start": "2025-10-07",
+        "last_notified": "2025-10-07"
+      },
+      {
+        "name": "gbfv",
+        "price": 10.0,
+        "currency": "USD",
+        "day": 5,
+        "start": "2025-10-07",
+        "last_notified": null
+      }
+    ],
+    "lang": "ru"
+  },
+  "1090712815": {
+    "subs": [
+      {
+        "name": "Spotify",
+        "price": 60.0,
+        "currency": "USD",
+        "day": 6,
+        "start": "2025-10-06"
+      }
+    ],
+    "lang": "ru"
+  },
+  "780719801": {
+    "subs": [
+      {
+        "name": "Yandex plus",
+        "price": 15990.0,
+        "currency": "UZS",
+        "day": 6,
+        "start": "2025-10-06"
+      }
+    ],
+    "lang": "ru"
+  },
+  "633831667": {
+    "subs": [
+      {
+        "name": "Arabic",
+        "price": 112.0,
+        "currency": "USD",
+        "day": 5,
+        "start": "2025-10-06"
+      },
+      {
+        "name": "Card history, Alif",
+        "price": 3900.0,
+        "currency": "UZS",
+        "day": 3,
+        "start": "2025-10-06"
+      },
+      {
+        "name": "Yandex",
+        "price": 9999.0,
+        "currency": "UZS",
+        "day": 7,
+        "start": "2025-10-06",
+        "last_notified": "2025-10-07"
+      },
+      {
+        "name": "Bolt",
+        "price": 20.0,
+        "currency": "USD",
+        "day": 6,
+        "start": "2025-10-06"
+      }
+    ],
+    "lang": "ru"
+  },
+  "2240917": {
+    "subs": [
+      {
+        "name": "Beeline",
+        "price": 45000.0,
+        "currency": "UZS",
+        "day": 15,
+        "start": "2025-10-06"
+      },
+      {
+        "name": "Рассрочка",
+        "price": 1132917.0,
+        "currency": "UZS",
+        "day": 27,
+        "start": "2025-10-06"
+      },
+      {
+        "name": "Интернет",
+        "price": 120000.0,
+        "currency": "UZS",
+        "day": 27,
+        "start": "2025-10-06"
+      }
+    ],
+    "lang": "ru"
+  }
+}
